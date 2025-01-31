@@ -1,7 +1,7 @@
 
 # Blog Website 🚀
 
-![Project Screenshot](https://cloud-kih3z1hy7-hack-club-bot.vercel.app/0screenshot_2025-02-01_at_12.05.36___am.png)
+![Project Screenshot](https://cloud-ilsg9y9j4-hack-club-bot.vercel.app/0screenshot_2025-02-01_at_12.10.18___am.png)
 
 ## 🌟 Overview
 
